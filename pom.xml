@@ -12,6 +12,8 @@
     <modules>
         <module>pujh-dubbo/dubbo-provider</module>
         <module>pujh-dubbo/dubbo-consumer</module>
+        <module>pujh-java</module>
+        <module>pujh-leetcode</module>
     </modules>
 
     <build>
