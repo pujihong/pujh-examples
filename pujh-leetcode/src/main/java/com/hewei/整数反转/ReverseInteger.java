@@ -26,7 +26,7 @@ package com.hewei.整数反转;
 public class ReverseInteger {
     // 思路1 转成字符串 用时9ms 击败了8%的用户 0.0
     public static int reverse1(int x) {
-        int result = 0;
+        int result;
         String s = x < 0 ? x * -1 + "" : x + "";
         s = new StringBuffer(s).reverse().toString();
         try {
