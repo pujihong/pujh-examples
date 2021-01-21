@@ -1,4 +1,4 @@
-package com.hewei.niuke;
+package com.hewei.牛客;
 
 public class Zhiyinzi {
   /*  public static void main(String[] args) throws IOException {
